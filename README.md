@@ -1,10 +1,10 @@
 
    <h1>Tool Depot of Ankh-Morpork</h1>
 
-  <h2>Alright, alright, gather 'round, everyone...</h2>
-    <p>Welcome to the Tool Depot of Ankh-Morpork, where we've got... uh, tools. Yeah, tools for... things. 
+  <h2>Alright folks, gather 'round...</h2>
+    <p>Welcome to the Tool Depot of Ankh-Morpork, where we've got... well, tools. Tools for... stuff. 
 <br> 
-This is a project still under construction, trying to collect all those nifty, little gizmos.</p>
+This is a project still under construction, trying to collect all those nifty, little instruments... for, uh, various tasks.</p>
     <h2>Tools in Stock:</h2>
     <ul>
         <li><a href="https://github.com/goro-dim/mouse_giggle" class="tool-link">Mouse Giggle</a>: Keeps your screens awake so you can keep an eye on stuff. Useful for trolls on bridge duty or banshees lurking in the Opera House, I suppose.</li>
@@ -28,7 +28,7 @@ This is a project still under construction, trying to collect all those nifty, l
         </li>
     </ol>
     <h2>Final Thoughts</h2>
-    <p>So yeah, with the Tool Depot of Ankh-Morpork at your disposal, you can probably handle whatever techy stuff you're up to. It's not as dull as watching a mime on a quiet street corner, we promise. Happy... coding, or whatever it is you do with these.</p>
+    <p>So yeah, with the Tool Depot of Ankh-Morpork at your disposal, you can probably handle whatever techy stuff you're up to. It's not as dull as watching a librarian organize bananas alphabetically, we promise.  Happy... coding, or whatever it is you do with these.</p>
     <p>Trust in the Tool Depot of Ankh-Morpork – because when it comes to solving your techy troubles, even the laziest of spells can do the trick!</p>
 <br>
 <h6>Inspired by the vivid imagination of Terry Pratchett's Discworld.</h6>
