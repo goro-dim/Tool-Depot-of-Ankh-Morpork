@@ -2,8 +2,10 @@
    <h1>Tool Depot of Ankh-Morpork</h1>
 
   <h2>Alright, alright, gather 'round, everyone...</h2>
-    <p>Welcome to the Tool Depot of Ankh-Morpork, where we've got... uh, tools. Yeah, tools for... things. Here's what's in stock:</p>
-    <h2>Tools in Our Collection</h2>
+    <p>Welcome to the Tool Depot of Ankh-Morpork, where we've got... uh, tools. Yeah, tools for... things. 
+<br> 
+This is a project still under construction, trying to collect all those nifty, little gizmos.</p>
+    <h2>Tools in Stock:</h2>
     <ul>
         <li><a href="https://github.com/goro-dim/mouse_giggle" class="tool-link">Mouse Giggle</a>: Keeps your screens awake so you can keep an eye on stuff. Useful for trolls on bridge duty or banshees lurking in the Opera House, I suppose.</li>
         <li><a href="https://github.com/goro-dim/DupliClean" class="tool-link">DupliClean</a>: Gets rid of those extra... things in your... uh, scrolls. Faster than a Nac Mac Feegle snatching a pie. Because who needs double trouble in their paperwork, right?</li>
