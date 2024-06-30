@@ -9,7 +9,8 @@ This is a project still under construction, trying to collect all those nifty, l
     <ul>
         <li><a href="https://github.com/goro-dim/mouse_giggle" class="tool-link">Mouse Giggle</a>: Keeps your screens awake so you can keep an eye on stuff. Useful for trolls on bridge duty or banshees lurking in the Opera House, I suppose.</li>
         <li><a href="https://github.com/goro-dim/DupliClean" class="tool-link">DupliClean</a>: Gets rid of those extra... things in your... uh, scrolls. Faster than a Nac Mac Feegle snatching a pie. Because who needs double trouble in their paperwork, right?</li>
-        <!-- Add more tools with similar descriptions and links as needed -->
+<li><a href="https://github.com/goro-dim/mac_trickster"> MacTrickster</a>: MacTrickster is a quirky tool that lets you change your computer's MAC address. Perfect for bamboozling network gremlins or just fixing those annoying connection issues with a touch of irony!  </li>        
+<!-- Add more tools with similar descriptions and links as needed -->
     </ul>
 
    <h2>How to Use These... Things</h2>
